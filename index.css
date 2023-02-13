@@ -1,0 +1,36 @@
+@import url(//fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic|Cabin+Condensed:600);
+body {
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+}
+
+.jstree-default-responsive .jstree-anchor {
+    font-weight: 400;
+}
+
+#jstree {
+    margin: 1em 0;
+    font-size: 1.1em;
+    line-height: normal;
+    font-weight: 400;
+}
+
+#dragTarget {
+    margin: 1em;
+    padding: 1em;
+    width: 500px;
+    height: 500px;
+    background-color: skyblue;
+    text-align: center;
+    border-radius: 50%;
+}
+
+h3 {
+    margin: 4em auto;
+}
+
+p {
+    font-family: "Cabin Condensed";
+    font-size: 1.3em;
+    margin: 1em 0;
+}
